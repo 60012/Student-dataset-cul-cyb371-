@@ -1,6 +1,10 @@
-# Student-dataset-cul-cyb371-
+STUDENT NAME: ADEWUSI JOSHUA ADEGOKE 
+MATRIC NUMBER: 24/14315 
+DEPARTMENT: COMPUTER SCIENCE 
+COURSE CODE: CULCYB 371 
 
-# Fictional Student Dataset — CUL-CYB 371 Assignment Two
+
+# Student-dataset-cul-cyb371-
 
 A Python script that generates a fictional student dataset covering
 undergraduate (100–400 level) programmes in the College of Computing and
